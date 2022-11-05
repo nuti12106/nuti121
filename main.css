@@ -1,0 +1,241 @@
+*
+{
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+
+.v1_98 {
+  width: 100%;
+  height: 100%;
+  background: url("http://www.localhost:3000/v1_98.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_98-1 {
+  width: 100%;
+  height: 100%;
+  background: url("http://www.localhost:3000/v1_98.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 600px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_98-2 {
+  width: 100%;
+  height: 100%;
+  background: url("http://www.localhost:3000/v1_98.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1200px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_99 {
+  width: 100%;
+  height: 1800px;
+  background: rgba(217,217,217,1);
+  opacity: 0.800000011920929;
+  position: absolute;
+  top: 54px;
+  left: 0px;
+  right: 0px;
+  overflow: hidden;
+}
+.v1_109 {
+  width: 310px;
+  height: 500px;
+  background: url("http://www.localhost:3000/v1_109.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 150px;
+  overflow: hidden;
+}
+.v2_001 {
+  width: 310px;
+  height: 500px;
+  background: url("http://www.localhost:3000/v2_001.webp");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 200px;
+  left: 150px;
+  overflow: hidden;
+}
+.v1_101 {
+  width: 149px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 450px;
+  left: 512px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_102-1 {
+  width: 500px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 450px;
+  left: 643px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_102-2 {
+  width: 500px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 490px;
+  left: 643px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_102-3 {
+  width: 500px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 530px;
+  left: 643px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_102-4 {
+  width: 500px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 570px;
+  left: 643px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v1_103 {
+  width: 337px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 250px;
+  left: 512px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_104 {
+  width: 325px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 645px;
+  left: 512px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_105 {
+  width: 466px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 300px;
+  left: 512px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_110 {
+  width: 360px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 350px;
+  left: 618px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_106 {
+  width: 200px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 400px;
+  left: 512px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_107 {
+  width: 700px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 66px;
+  left: 370px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_108 {
+  width: 391px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 200px;
+  left: 512px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_111 {
+  width: 800px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 750px;
+  left: 512px;
+  font-family: Irish Grover;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
